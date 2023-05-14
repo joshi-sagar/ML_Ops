@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # tain.py
-# Xavier Vasques 13/04/2021
+# Sagar Joshi 14/5/23
+#Testing how the model work.
 
 import platform; print(platform.platform())
 import sys; print("Python", sys.version)
